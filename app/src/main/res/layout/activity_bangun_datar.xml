@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BangunDatarActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="328dp"
+        android:src="@drawable/lg" />
+
+    <ScrollView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/persegi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/persegi"/>
+            <Button
+                android:id="@+id/persegipanjang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/persegi_panjang"/>
+            <Button
+                android:id="@+id/segita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/segeitiga"/>
+
+            <Button
+                android:id="@+id/trapesium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/trapesium" />
+
+            <Button
+                android:id="@+id/jajargenjang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/jajargenjang" />
+
+            <Button
+                android:id="@+id/belahketupa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/belah_ketupat"/>
+
+            <Button
+                android:id="@+id/layanglayang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/layang_layang" />
+
+            <Button
+                android:id="@+id/lingkaran"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lingkaran"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

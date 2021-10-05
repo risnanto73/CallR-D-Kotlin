@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="349dp"
+        android:src="@drawable/lg" />
+
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnBangunDatar"
+                android:drawableLeft="@drawable/ohm"
+                android:drawableRight="@drawable/grp1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bangun_datar"/>
+
+            <Button
+                android:id="@+id/btnBangunRuang"
+                android:drawableLeft="@drawable/phi"
+                android:drawableRight="@drawable/grp1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bangun_ruang"/>
+
+        </LinearLayout>
+</LinearLayout>

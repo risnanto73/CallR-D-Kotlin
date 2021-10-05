@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".InfoActivity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="258dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                app:srcCompat="@drawable/user" />
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:clickable="false"
+                        android:fontFamily="serif-monospace"
+                        android:shadowRadius="10"
+                        android:text="@string/nama"
+                        android:textAlignment="textStart"
+                        android:textColor="#FF5722"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:clickable="false"
+                        android:fontFamily="serif-monospace"
+                        android:shadowRadius="10"
+                        android:text="@string/tio_risnanto"
+                        android:textAlignment="textStart"
+
+                        android:textStyle="bold" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:clickable="false"
+                        android:fontFamily="serif-monospace"
+                        android:maxLines="3"
+                        android:shadowRadius="10"
+                        android:text="@string/alamat"
+                        android:textAlignment="textStart"
+                        android:textColor="#FF5722"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:clickable="false"
+                        android:fontFamily="serif-monospace"
+                        android:maxLines="1"
+                        android:shadowRadius="10"
+                        android:text="@string/desa_bakung_kidul_blok_gebang_jamblang_cirebon_45156"
+                        android:textAlignment="textStart"
+                        android:textStyle="bold" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView />
+
+                    <Button
+                        android:id="@+id/btnNumb"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:autoLink="phone"
+                        android:clickable="false"
+                        android:fontFamily="serif-monospace"
+                        android:linksClickable="false"
+                        android:shadowRadius="10"
+                        android:text="@string/cirebon_45156"
+                        android:textAlignment="textStart"
+                        android:textStyle="bold" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:clickable="false"
+                        android:fontFamily="serif-monospace"
+                        android:shadowRadius="10"
+                        android:text="@string/no_hp"
+                        android:textAlignment="textStart"
+                        android:textColor="#FF5722"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:autoLink="phone"
+                        android:clickable="true"
+                        android:fontFamily="serif-monospace"
+                        android:linksClickable="true"
+                        android:shadowRadius="10"
+                        android:text="@string/_083823098680"
+                        android:textAlignment="textStart"
+                        android:textStyle="bold" />
+                </TableRow>
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

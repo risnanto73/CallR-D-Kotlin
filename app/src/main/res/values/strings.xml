@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Cal R&amp;D</string>
+    <string name="info">Info</string>
+    <string name="persegi">Persegi</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segeitiga">Segeitiga</string>
+    <string name="trapesium">Trapesium</string>
+    <string name="jajargenjang">Jajargenjang</string>
+    <string name="belah_ketupat">Belah Ketupat</string>
+    <string name="layang_layang">Layang-layang</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="sisi_diagonal_1">Sisi/Diagonal 1</string>
+    <string name="masukan_sisi_diagonal_1">Masukan Sisi / Diagonal 1</string>
+    <string name="digonal_2">Digonal 2</string>
+    <string name="masukan_digonal_2">Masukan Digonal 2</string>
+    <string name="jajar_genjang">JAJAR GENJANG</string>
+    <string name="alas">Alas</string>
+    <string name="masukan_tinggi_sisi">Masukan Tinggi/Sisi</string>
+    <string name="sisi_1_amp_2"><![CDATA[sisi 1&2]]></string>
+    <string name="masukan_sisi_1_amp_2"><![CDATA[Masukan Sisi 1&2]]></string>
+    <string name="sisi_3_amp_4"><![CDATA[Sisi 3&4]]></string>
+    <string name="masukan_sisi_3_amp_4"><![CDATA[Masukan Sisi 3&4]]></string>
+    <string name="diagonal_1">Diagonal 1</string>
+    <string name="masukan_diagonal_1">Masukan Diagonal 1</string>
+    <string name="diagonal_2">Diagonal 2</string>
+    <string name="masukan_diagonal_2">Masukan Diagonal 2</string>
+    <string name="jari_jari">Jari/jari</string>
+    <string name="masukan_jari_jari">Masukan Jari-jari</string>
+    <string name="bangun_datar">Bangun Datar</string>
+    <string name="bangun_ruang">Bangun Ruang</string>
+    <string name="masukan_angka">Masukan Angka</string>
+    <string name="panjang">Panjang</string>
+    <string name="masukan_panjang">Masukan Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="masukan_lebar">Masukan Lebar</string>
+    <string name="hapus">Hapus</string>
+    <string name="alas_sisi">Alas/Sisi</string>
+    <string name="masukan_tinggi">Masukan Tinggi</string>
+    <string name="tinggi_sisi">Tinggi/Sisi</string>
+    <string name="segitiga">SEGITIGA</string>
+    <string name="masukan_alas">Masukan Alas</string>
+    <string name="sisi">Sisi</string>
+    <string name="clear">Clear</string>
+    <string name="atas">Atas</string>
+    <string name="masukan_atas_sisi_1">Masukan Atas/ Sisi 1</string>
+    <string name="bawah">Bawah</string>
+    <string name="masukan_bawah_masukan_sisi_2">Masukan Bawah/Masukan Sisi 2</string>
+    <string name="tinggi_sisi_3">Tinggi/Sisi 3</string>
+    <string name="masukan_tinggi_sisi_3">Masukan Tinggi / Sisi 3</string>
+    <string name="sisi_4">sisi 4</string>
+    <string name="masukan_sisi_4">Masukan Sisi 4</string>
+    <string name="keliling">Keliling</string>
+    <string name="luas">Luas</string>
+    <string name="hitung">Hitung</string>
+    <string name="kubus">KUBUS</string>
+    <string name="volume">Volume</string>
+    <string name="luas_permukaan">Luas Permukaan</string>
+    <string name="masukan_sisi">Masukan Sisi</string>
+    <string name="balok">Balok</string>
+    <string name="rumus_volume_s_s_s">Rumus Volume : S * S * S</string>
+    <string name="rumus_luas_permukaan_6_s_s">Rumus Luas Permukaan : 6 * S * S</string>
+    <string name="masukan_tinggi_prisma">Masukan Tinggi Prisma</string>
+    <string name="masukan_tinggi_alas">Masukan Tinggi Alas</string>
+    <string name="prisma">Prisma</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="tinggi_alas">Tinggi Alas</string>
+    <string name="sisi_alas">Sisi Alas</string>
+    <string name="tinggi_prisma">Tinggi Prisma</string>
+    <string name="limas">Limas</string>
+    <string name="tabung">Tabung</string>
+    <string name="kerucut">Kerucut</string>
+    <string name="bola">Bola</string>
+    <string name="rumus_volume_luas_alas_tinggi">Rumus Volume : Luas Alas * Tinggi</string>
+    <string name="selimut">Selimut</string>
+    <string name="masukan_selimut">Masukan Selimut</string>
+    <string name="rumus_volume_1_3_r_r_t">Rumus volume : 1/3 *π*r*r*t</string>
+    <string name="sisi_miring">Sisi Miring</string>
+    <string name="masukan_sisi_miring">Masukan Sisi Miring</string>
+    <string name="masukan_sisi_alas">Masukan Sisi Alas</string>
+    <string name="tinggi_limas">Tinggi Limas</string>
+    <string name="masukan_tinggi_limas">Masukan Tinggi Limas</string>
+    <string name="nama">Nama</string>
+    <string name="tio_risnanto">Tio Risnanto</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_hp">No. HP</string>
+    <string name="_083823098680">083823098680</string>
+    <string name="desa_bakung_kidul_blok_gebang_jamblang_cirebon_45156">Desa Bakung Kidul Jamblang</string>
+    <string name="about_dev">About Dev</string>
+    <string name="cirebon_45156">Cirebon 45156</string>
+    <string name="rumus_keliling_4_s">Rumus Keliling = 4 * S</string>
+    <string name="rumus_keliling_2_p_l">Rumus Keliling = 2 * ( P + L )</string>
+    <string name="rumus_luas_p_l">Rumus Luas = P * L</string>
+    <string name="rumus_keliling_s_s_s">Rumus Keliling = S + S + S</string>
+    <string name="rumus_luas_1_2_alas_tinggi">Rumus Luas = 1/2 * Alas * Tinggi</string>
+    <string name="rumus_keliling_s1_s2_s3_s4">Rumus Keliling = S1 + S2 + S3 + S4</string>
+    <string name="rumus_luas_1_2_a_b_tinggi">Rumus Luas = 1/2 (a*b) * Tinggi</string>
+    <string name="rumus_keliling_2_a_b">Rumus Keliling = 2 (a * b)</string>
+    <string name="rumus_luas_alas_tinggi">Rumus Luas = Alas * Tinggi</string>
+    <string name="rumus_luas_1_2_d1_d2">Rumus Luas = 1/2 * D1 * D2</string>
+
+</resources>
